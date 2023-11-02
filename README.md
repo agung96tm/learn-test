@@ -7,3 +7,4 @@ What I know about test will publish in here!
 * [Consecutive Number](consecutive_number/README.md)
 * [Tax Progressive](tax_progressive/README.md)
 * [Pyramid Rotation](pyramid_rotation/README.md)
+* [Anagram](anagram/README.md)

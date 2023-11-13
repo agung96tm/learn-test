@@ -9,6 +9,7 @@ What I know about test will publish in here!
 * [Anagram](anagram/README.md)
 * [Manipulate Records](manipulate_records/README.md)
 * [Fetch and Get Title Movies](fetch_movies/README.md)
+* [Fetch and Get Title Articles](fetch_title_articles/README.md)
 
 ## Contributors
 * Agung Yuliyanto: [Github](https://github.com/agung96tm), [LinkedIn](https://www.linkedin.com/in/agung96tm/)
